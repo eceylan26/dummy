@@ -1,31 +1,32 @@
-[{
-		"name": "Welcome to quicktype!",
-		"time": 1,
-		"image": "assets/images/paket1.jpg",
-		"numberOfProgram": 100,
-		"numberOfVideoTalk": 100,
-		"numberOfVoiceTalk": 100,
-		"numberOfControlTalk": 100,
-		"price": 100
-	},
-	{
-		"name": "Welcome to quicktype!",
-		"time": 1,
-		"image": "assets/images/paket1.jpg",
-		"numberOfProgram": 100,
-		"numberOfVideoTalk": 100,
-		"numberOfVoiceTalk": 100,
-		"numberOfControlTalk": 100,
-		"price": 100
-	},
-	{
-		"name": "Welcome to quicktype!",
-		"time": 1,
-		"image": "assets/images/paket1.jpg",
-		"numberOfProgram": 100,
-		"numberOfVideoTalk": 100,
-		"numberOfVoiceTalk": 100,
-		"numberOfControlTalk": 100,
-		"price": 100
-	}
+[
+   {
+      "name":"Welcome to quicktype!",
+      "time":1,
+      "image":"assets/images/paket1.jpg",
+      "numberOfProgram":100,
+      "numberOfVideoTalk":100,
+      "numberOfVoiceTalk":100,
+      "numberOfControlTalk":100,
+      "price":100
+   },
+   {
+      "name":"Welcome to quicktype!",
+      "time":1,
+      "image":"assets/images/paket1.jpg",
+      "numberOfProgram":100,
+      "numberOfVideoTalk":100,
+      "numberOfVoiceTalk":100,
+      "numberOfControlTalk":100,
+      "price":100
+   },
+   {
+      "name":"Welcome to quicktype!",
+      "time":1,
+      "image":"assets/images/paket1.jpg",
+      "numberOfProgram":100,
+      "numberOfVideoTalk":100,
+      "numberOfVoiceTalk":100,
+      "numberOfControlTalk":100,
+      "price":100
+   }
 ]
